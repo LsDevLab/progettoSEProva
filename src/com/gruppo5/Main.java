@@ -6,6 +6,6 @@ public class Main {
 	// write your code here
         System.out.println("ciao banana");
         System.out.println("VAI");
-        System.out.println("Netbeans è più bello");
+        System.out.println("IntelliJ è più bello");
     }
 }
