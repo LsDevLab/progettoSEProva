@@ -7,5 +7,6 @@ public class Main {
         System.out.println("ciao banana");
         System.out.println("VAI");
         System.out.println("IntelliJ è più bello");
+        System.out.println("SI TORNA SEMPRE DOVE SI E' STATI BENE");
     }
 }
